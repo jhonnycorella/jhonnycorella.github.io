@@ -109,6 +109,17 @@ ul li, ol li {
   position: relative;
 }
 
+.section-title-white {
+  color: white;
+  font-size: 38px;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 1;
+  margin-bottom: 48px;
+  padding: 0 10px;
+  position: relative;
+}
+
 .btn {
   font-size: 14px;
   padding: 10px 30px;
@@ -355,32 +366,32 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .counter-section .counter {
-  padding: 30px 0;
+  padding: 15px 0;
 }
 
 .counter-section .counter .icon {
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 
 .counter-section .counter .icon i {
-  font-size: 48px;
-  color: #00b4d9;
+  font-size: 32px;
+  color: white;
 }
 
 .counter-section .counter p {
-  font-size: 18px;
+  font-size: 9px;
   text-transform: uppercase;
   color: #fff;
-  font-weight: 400;
+  font-weight: 200;
   letter-spacing: 1px;
-  margin: 30px 0;
+  margin: 15px 0;
 }
 
 .counter-section .counter .counterUp {
   color: #fff;
-  font-size: 42px;
-  margin-top: 15px;
-  font-weight: 700;
+  font-size: 21px;
+  margin-top: 7px;
+  font-weight: 350;
 }
 
 /* Resume */
